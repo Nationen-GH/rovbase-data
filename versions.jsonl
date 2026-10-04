@@ -77,3 +77,4 @@
 {"date": "2026-10-01", "fetched_utc": "2026-10-01T18:57:09+00:00", "version": "1.375", "rows": 91306, "sha256": "97b525776f6d036c34ed58b9ebddfdd57afb99b137f3f121b9ecec05f330d07f"}
 {"date": "2026-10-02", "fetched_utc": "2026-10-02T18:34:06+00:00", "version": "1.376", "rows": 91306, "sha256": "97b525776f6d036c34ed58b9ebddfdd57afb99b137f3f121b9ecec05f330d07f"}
 {"date": "2026-10-03", "fetched_utc": "2026-10-03T17:28:08+00:00", "version": "1.377", "rows": 91351, "sha256": "10b3146721625c7483072314bc813e1bfcb4bbe83c98ea8576e2621fc408d69e"}
+{"date": "2026-10-04", "fetched_utc": "2026-10-04T17:43:23+00:00", "version": "1.378", "rows": 91351, "sha256": "10b3146721625c7483072314bc813e1bfcb4bbe83c98ea8576e2621fc408d69e"}
