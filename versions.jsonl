@@ -99,3 +99,4 @@
 {"date": "2026-10-23", "fetched_utc": "2026-10-23T17:55:06+00:00", "version": "1.397", "rows": 91348, "sha256": "f6af6bf9ffbf74e207f1710fd0c5838ceffce5ec994ef898074c86adbcbb93c5"}
 {"date": "2026-10-24", "fetched_utc": "2026-10-24T16:45:38+00:00", "version": "1.398", "rows": 91368, "sha256": "1cdee4c8f2ae9af96a341b1807c01d518b438d257adfe3148969d12b6d15b77c"}
 {"date": "2026-10-25", "fetched_utc": "2026-10-25T17:07:19+00:00", "version": "1.399", "rows": 91368, "sha256": "1cdee4c8f2ae9af96a341b1807c01d518b438d257adfe3148969d12b6d15b77c"}
+{"date": "2026-10-26", "fetched_utc": "2026-10-26T19:27:12+00:00", "version": "1.400", "rows": 91368, "sha256": "1cdee4c8f2ae9af96a341b1807c01d518b438d257adfe3148969d12b6d15b77c"}
