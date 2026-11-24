@@ -31,7 +31,7 @@ The collection carries metadata as top-level members alongside `features`:
 | Member | Example |
 |---|---|
 | `name` | `rovbase` |
-| `generated` | `2026-09-08T13:35:12Z` — build time, UTC |
+| `generated` | `2026-09-08T13:35:12Z` — when this GBIF version was fetched, UTC |
 | `gbif_version` | `1.352` |
 | `count` | `91089` — equals `features.length` |
 | `source` | `https://ipt.gbif.no/resource?r=rovbase` |
